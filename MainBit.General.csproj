@@ -157,6 +157,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Commands\CultureCommands.cs" />
+    <Compile Include="Commands\ContentCommands.cs" />
     <Compile Include="DynamicForms\Controllers\FormController.cs" />
     <Compile Include="DynamicForms\Drivers\FormElementDriver.cs" />
     <Compile Include="DynamicForms\Drivers\HiddenFieldElementDriver.cs" />
